@@ -1,0 +1,7 @@
+os
+random
+string
+time
+ctypes
+discord_webhook
+requests
