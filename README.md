@@ -10,4 +10,3 @@
 - run main.py
 ###pic of generator
 https://imgur.com/gallery/gGQarVg
-![pic](https://imgur.com/gallery/gGQarVg "pic")
