@@ -3,10 +3,13 @@
 - discord webhook support
 - easy to use
 - on python
-###how to use
+###usage 
 - download the zip
 - unzip
 - install modules in requirement(pip install ~r requirements.txt )
 - run main.py
-###pic of generator
-https://imgur.com/gallery/gGQarVg
+
+
+
+###pic
+- https://imgur.com/gallery/gGQarVg
